@@ -14,8 +14,9 @@ public class DepotLocal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Hello World!");
-        System.out.print("byeee world!");
+        System.out.println("Hello World!");
+        System.out.println("byeee world!");
+        System.out.println("J'espère que ça marche!");
         
     }
     
